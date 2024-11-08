@@ -1,1 +1,4 @@
-1|agG8LFzpnR|7天|未啟用|空|2|GsZgw4waZ|7天|未啟用|空|3|rcJPsmZ8Kc|7天|未啟用|空|4|iusWF0CYNz|7天|未啟用|空|5|RB7vrI2AL|30天|未啟用|空|6|CmAZkkc8VX|30天|未啟用|空|7|zd2Mmm1LDq|30天|未啟用|空
+1|lhNtVeCLid|30天|啟用|CYHgX7BzSD
+2|XxYFAxtNtk|30天|啟用|CYHgX7BzSD
+3|jdiWi6FhUf|7天|未啟用|空
+4|FLJRzBeQZ1|7天|未啟用|空
