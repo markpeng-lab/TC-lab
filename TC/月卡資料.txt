@@ -1,5 +1,6 @@
-1|ydi2WXcsqD|2024/11/27 02:23:36|啟用|DYCbeGGyc
-2|7aAexAFAug|2024/11/27 02:23:44|啟用|DYCbeGGyc
-3|ODxG7ANLkB|7天|未啟用|空
-4|xyegu3uL8Z|7天|未啟用|空
-5|3JRJZaQZnt|7天|未啟用|空
+1|WkYSBviDkv|不限制|啟用|oNM7mrKVj
+2|r3mQiQoYv|不限制|未啟用|空
+3|MvRCuz0mIq|7天|未啟用|空
+4|fHxqSBsnQ|7天|未啟用|空
+5|BGpaDcO4AS|30天|未啟用|空
+6|2gZAxTG9a4|30天|未啟用|空
